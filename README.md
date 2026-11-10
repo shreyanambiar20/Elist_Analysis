@@ -1,7 +1,9 @@
 # Elist Analysis
 
-Elist is an e-commerce company that has sold electronics since 2019. I’m partnering with the Head of Operations to analyze the company’s performance from 2019 through 2022, focusing on sales trends, monthly and annual growth rates, loyalty program performance, refund rates, and average order value. Leadership will use the findings to guide business decisions, and the product and marketing teams will use the analysis and recommendations to grow sales and improve the performance of Elist’s e-commerce platform.
+Elist is an e-commerce company that has sold electronics since 2019. I’m partnering with the Head of Operations to analyze the company’s performance from 2019 through 2022, focusing on sales trends, monthly and annual growth rates, loyalty program performance, refund rates, and average order value. Leadership will use the findings to guide business decisions, and the product and marketing teams will use the analysis and recommendations to grow sales and improve the performance of Elist’s e-commerce platform. This review examines sales trends, growth drivers, loyalty performance and Apple product refunds.
 
+<img width="2118" height="126" alt="image" src="https://github.com/user-attachments/assets/637da283-e02d-4bbc-a72d-96f44bb58681" />
+ Elist generated $28.11 million from 108,124 orders between 2019 and 2022, with an overall average order value (AOV) of $260.08. Sales peaked in 2020 before declining over the following two years.This review examines sales trends, growth drivers, loyalty performance and Apple product refunds.
 
 # Deep- Dive Insights
 ## Sales Trends
