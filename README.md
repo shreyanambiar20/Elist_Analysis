@@ -61,7 +61,7 @@ Refunded MacBook price variability in North America increased from roughly $110 
 ## Recommendations
 1. **Investigate the October decline in order volume.** Identify what drove the drop in October and why it was particularly sharp in 2022.
 2. **Review underperforming products.** Work with the Product and Marketing teams to assess whether to remove the Bose headphones from Elist’s assortment given their low sales. Investigate why iPhone sales are weak on Elist despite the product’s broader popularity.
-3. **Continue the loyalty program while evaluating its impact.** Keep the program in place while collecting more data to determine whether the encouraging revenue trends among members are sustained. Investigate what’s driving weak customer retention and test ways to encourage repeat purchases.
+3. **Continue the loyalty program while evaluating its impact.** Keep the program in place while collecting more data to determine whether the encouraging revenue trends among members are sustained. Investigate what’s driving weak customer retention and test ways to encourage repeat purchases (6.31%) in 2019 and (3.55%) in 2020.
 4. **Investigate MacBook Air refunds.** Identify the most common reasons customers requested refunds and verify that the 2022 refund records are complete before drawing conclusions.
 
 
